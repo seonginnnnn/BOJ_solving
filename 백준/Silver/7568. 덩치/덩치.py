@@ -18,4 +18,3 @@ for i in range(a):
 #다른분들 코드방법
 #S = [list(map(int, input().split())) for i in range(N)] 이렇게 하면 N번을 반복하여 리스트 안에 list(map())을 이용하면 append를 안써주어도 될 것 같다.
 #for x1, y1 in S: 이렇게 작성하면 c[][]안에 값을 안넣어줘도 x1, y1에 값이 순서대로 들어간다.
-#print(b, end =' ') for문을 작성해서 출력만 생각했는데 이렇게만 써도 하나 출력하고 end = ' '가 실행되는 것 같다.
